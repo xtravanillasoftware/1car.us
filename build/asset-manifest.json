@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/icarus/static/css/main.0b056572.css",
-    "main.js": "/icarus/static/js/main.5d3f4c36.js",
+    "main.css": "/icarus/static/css/main.8684557d.css",
+    "main.js": "/icarus/static/js/main.ba218990.js",
     "static/js/787.5bfba59c.chunk.js": "/icarus/static/js/787.5bfba59c.chunk.js",
     "static/media/static.jpg": "/icarus/static/media/static.f36b1f4b543e3426b098.jpg",
     "static/media/Montserrat-VariableFont_wght.ttf": "/icarus/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
@@ -9,12 +9,12 @@
     "static/media/AlegreyaSansSC-Medium.ttf": "/icarus/static/media/AlegreyaSansSC-Medium.22571419389ad77fd0b0.ttf",
     "static/media/Anton-Regular.ttf": "/icarus/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
     "index.html": "/icarus/index.html",
-    "main.0b056572.css.map": "/icarus/static/css/main.0b056572.css.map",
-    "main.5d3f4c36.js.map": "/icarus/static/js/main.5d3f4c36.js.map",
+    "main.8684557d.css.map": "/icarus/static/css/main.8684557d.css.map",
+    "main.ba218990.js.map": "/icarus/static/js/main.ba218990.js.map",
     "787.5bfba59c.chunk.js.map": "/icarus/static/js/787.5bfba59c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b056572.css",
-    "static/js/main.5d3f4c36.js"
+    "static/css/main.8684557d.css",
+    "static/js/main.ba218990.js"
   ]
 }
