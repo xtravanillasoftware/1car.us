@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/icarus/static/css/main.8684557d.css",
+    "main.css": "/icarus/static/css/main.cb1a8752.css",
     "main.js": "/icarus/static/js/main.ba218990.js",
     "static/js/787.5bfba59c.chunk.js": "/icarus/static/js/787.5bfba59c.chunk.js",
     "static/media/static.jpg": "/icarus/static/media/static.f36b1f4b543e3426b098.jpg",
@@ -9,12 +9,12 @@
     "static/media/AlegreyaSansSC-Medium.ttf": "/icarus/static/media/AlegreyaSansSC-Medium.22571419389ad77fd0b0.ttf",
     "static/media/Anton-Regular.ttf": "/icarus/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
     "index.html": "/icarus/index.html",
-    "main.8684557d.css.map": "/icarus/static/css/main.8684557d.css.map",
+    "main.cb1a8752.css.map": "/icarus/static/css/main.cb1a8752.css.map",
     "main.ba218990.js.map": "/icarus/static/js/main.ba218990.js.map",
     "787.5bfba59c.chunk.js.map": "/icarus/static/js/787.5bfba59c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8684557d.css",
+    "static/css/main.cb1a8752.css",
     "static/js/main.ba218990.js"
   ]
 }
