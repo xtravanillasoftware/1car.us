@@ -36,6 +36,7 @@ export default function Cover() {
             <p>Ideation</p>
             <p>Design</p>
             <p>Cloud Development</p>
+            <p>Solutions Architecture</p>
             <p>Web & Mobile Development</p>
             <p>Deployment & Hosting</p>
           </div>
