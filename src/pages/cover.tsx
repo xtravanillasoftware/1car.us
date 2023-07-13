@@ -7,7 +7,9 @@ export default function Cover() {
         <div className="spine">
           <div className="spine__meta">
             <hr />
-            <p className="spine__title">ICARUS: A Digital Agency</p>
+            <p className="spine__title">
+              ICARUS: The "Boring Company" of Software
+            </p>
             <hr />
           </div>
         </div>
@@ -15,10 +17,10 @@ export default function Cover() {
         <div className="subMatter">
           <div className="subMatter__contactInfo">
             <h4>Contact</h4>
-            <p>+1 973-223-0516</p>
+            <p>+1 (973)-223-0516</p>
             <p>amjsdev@gmail.com</p>
             <p>
-              <a href="https://calendly.com/icarusdigitalagency">Calendly</a>
+              <a href="https://calendly.com/icarussoftware">Calendly</a>
             </p>
 
             <p>
@@ -31,14 +33,6 @@ export default function Cover() {
             <p>Spanish</p>
             <p>Portuguese</p>
             <p>French</p>
-
-            <h4>Services</h4>
-            <p>Ideation</p>
-            <p>Design</p>
-            <p>Cloud Development</p>
-            <p>Solutions Architecture</p>
-            <p>Web & Mobile Development</p>
-            <p>Deployment & Hosting</p>
           </div>
 
           <div className="subMatter__trademark">
