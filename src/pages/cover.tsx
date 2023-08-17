@@ -8,7 +8,7 @@ export default function Cover() {
           <div className="spine__meta">
             <hr />
             <p className="spine__title">
-              ICARUS: The "Boring Company" of Software
+              ICARUS
             </p>
             <hr />
           </div>
@@ -33,12 +33,6 @@ export default function Cover() {
             <p>Spanish</p>
             <p>Portuguese</p>
             <p>French</p>
-          </div>
-
-          <div className="subMatter__trademark">
-            <h4>
-              Ashton <br /> Morris
-            </h4>
           </div>
         </div>
       </div>
