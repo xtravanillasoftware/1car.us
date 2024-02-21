@@ -24,7 +24,7 @@ export default function Cover() {
             </p>
 
             <p>
-              <a href="https://github.com/xtraVanilla/automation_fsjs/blob/main/Automation%20%26%20Full%20Stack%20JavaScript.pdf">
+              <a href="https://medium.com/@ashton-d-morris/automation-full-stack-javascript-f356fb662187">
                 Whitepaper
               </a>
             </p>
