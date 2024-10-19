@@ -1,26 +1,20 @@
 {
   "compilerOptions": {
-    "target": "es5",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
-    "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "noFallthroughCasesInSwitch": true,
-    "module": "esnext",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "target": "ES2015",
+    "lib": ["dom", "es2015"],
+    "module": "ES2015",
     "moduleResolution": "node",
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "noEmit": true,
-    "jsx": "react-jsx"
-  },
-  "include": [
-    "src"
-  ]
+    "jsx": "react",
+    "jsxFactory": "JSX",
+    "jsxFragmentFactory": "document.createDocumentFragment",
+    "noImplicitOverride": false,
+    "baseUrl": "./",
+    "outDir": "./public",
+    "noEmit": false,
+    "paths": {
+      "1car.us": ["../node_modules/1car.us/dist/script.js"]
+    }
+  }
 }
